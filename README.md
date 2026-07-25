@@ -66,7 +66,7 @@ python model_pipeline.py
 ```bash
 streamlit run app.py
 ```
-Open your browser at `http://localhost:8501`.
+Open your browser at `https://akkinikumbh-customer-churn-prediction-app-pfhymh.streamlit.app/`.
 
 ---
 
