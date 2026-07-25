@@ -1,0 +1,80 @@
+{
+    "accuracy": 0.8565,
+    "precision": 0.8905,
+    "recall": 0.8532,
+    "f1_score": 0.8715,
+    "roc_auc": 0.9991,
+    "confusion_matrix": [
+        [
+            4068,
+            658
+        ],
+        [
+            921,
+            5353
+        ]
+    ],
+    "sample_size": 55000,
+    "top_features": [
+        {
+            "feature": "Support Calls",
+            "importance": 0.30768492339243164
+        },
+        {
+            "feature": "Total Spend",
+            "importance": 0.20698239880748578
+        },
+        {
+            "feature": "Payment Delay",
+            "importance": 0.12829552818679768
+        },
+        {
+            "feature": "Contract Length_Monthly",
+            "importance": 0.11402173935266229
+        },
+        {
+            "feature": "Age",
+            "importance": 0.11333659110316315
+        },
+        {
+            "feature": "Last Interaction",
+            "importance": 0.04160450717649803
+        },
+        {
+            "feature": "Contract Length_Annual",
+            "importance": 0.025884224316666576
+        },
+        {
+            "feature": "Contract Length_Quarterly",
+            "importance": 0.02363453066128934
+        },
+        {
+            "feature": "Gender_Female",
+            "importance": 0.0171823899733556
+        },
+        {
+            "feature": "Gender_Male",
+            "importance": 0.016951634080708135
+        },
+        {
+            "feature": "Tenure",
+            "importance": 0.0026027300838149647
+        },
+        {
+            "feature": "Usage Frequency",
+            "importance": 0.0013763665295001555
+        },
+        {
+            "feature": "Subscription Type_Basic",
+            "importance": 0.00023723012835429296
+        },
+        {
+            "feature": "Subscription Type_Standard",
+            "importance": 0.00011556626799579214
+        },
+        {
+            "feature": "Subscription Type_Premium",
+            "importance": 8.963993927669124e-05
+        }
+    ]
+}
